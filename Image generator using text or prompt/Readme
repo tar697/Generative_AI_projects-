@@ -1,1 +1,4 @@
+Image generator using text or prompt
+Build a simple web app that takes a user’s text prompt (like "a cat riding a skateboard") and generates an AI-generated image using a Generative AI model like Stable Diffusion.
+
 
