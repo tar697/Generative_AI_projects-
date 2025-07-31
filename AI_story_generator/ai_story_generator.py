@@ -44,7 +44,7 @@ if st.button("🚀 Generate Story"):
 )
 ''')
 
-!ngrok config add-authtoken 2ywfVy7ARGbuCbtqlCs4A1aaGDj_3Nf5r85iye654zHNZNuFu
+!ngrok config add-authtoken your_token
 
 from pyngrok import ngrok
 ngrok.kill()  # ✅ This closes all old tunnels
